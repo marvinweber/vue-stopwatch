@@ -4,7 +4,7 @@
 https://stopwatch.weberone.de
 
 ### About
-Beautiful stopwatch built with Vue.js.  
+Material Design stopwatch built with Vue.js and Vuetify.  
 
 **Features**:
 *  Start / Stop / Resume the stopwatch ;)
