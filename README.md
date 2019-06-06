@@ -16,6 +16,9 @@ Beautiful stopwatch built with Vue.js.
 ### Windows Executable Version
 You can download a executable version of the Stopwatch for Windows (build with [Nativefier](https://github.com/jiahaog/nativefier)) in the Release notes.
 
+### Offline Browser Version
+Also available for download on the release-page. Simply open the index.html and your browser should run and display the stopwatch.
+
 ### Screenshots
 ![Stopwatch](screenshots/stopwatch.jpg?raw=true "Stopwatch")
 ![Settings](screenshots/settings.jpg?raw=true "Settings")
